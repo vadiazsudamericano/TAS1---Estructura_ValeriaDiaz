@@ -152,6 +152,7 @@ Figura 8-4. Historial de comandos de la sesión completa
 
 # 9. Resultados esperados
 Se confirmó el funcionamiento de todos los comandos ejecutados. El archivo resumen.txt refleja correctamente la unión de los datos de notas más la línea final añadida, y el historial contiene la secuencia lógica de la práctica sin pérdida de información. Con esto, se cumple el objetivo de gestionar el sistema de archivos exclusivamente desde la terminal, logrando independencia del entorno gráfico de Windows.
+![Captura de pantalla de la terminal](resultado.png)
 
 
 # 10. Bibliografía
