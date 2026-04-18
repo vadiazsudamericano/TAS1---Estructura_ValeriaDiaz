@@ -103,7 +103,7 @@ Paso 2: Crear estructura de directorios
 
 bash
 mkdir documentos imagenes scripts
-# Error tipográfico intencional:
+Error tipográfico intencional:
 mkdir coumentos  # INCORRECTO
 ls -la
 Paso 3: Corregir error con mv
