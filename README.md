@@ -93,7 +93,7 @@ Referencia redireccionamiento: bash-hackers.org/cmds/all.html
 Paso 1: Inicializar entorno de trabajo
 
 bash
-cd /c/Users/Adela
+C:\Users\vd236\Documents\
 mkdir proyecto_comandos
 cd proyecto_comandos
 pwd
