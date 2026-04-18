@@ -151,21 +151,8 @@ tail -10 tarea-s1-Valeria_Diaz.txt
 Figura 8-4. Historial de comandos de la sesión completa
 
 # 9. Resultados esperados
-Estructura final en C:\Users\vd236\Documents\proyecto_comandos
+Se confirmó el funcionamiento de todos los comandos ejecutados. El archivo resumen.txt refleja correctamente la unión de los datos de notas más la línea final añadida, y el historial contiene la secuencia lógica de la práctica sin pérdida de información. Con esto, se cumple el objetivo de gestionar el sistema de archivos exclusivamente desde la terminal, logrando independencia del entorno gráfico de Windows.
 
-text
-proyecto_comandos/
-├── documentos/ (vacío)
-├── scripts/ (vacío)
-├── resumen.txt (4 líneas con contenido)
-└── tarea-s1-Valeria_Diaz.txt (historial completo)
-Figura 9-1. Estado final del filesystem tras todas las operaciones
-
-Figura 9-2. Contenido del archivo resumen.txt generado
-
-Figura 9-3. Últimas líneas del historial de comandos
-
-Verificación exitosa de todas las operaciones sin pérdida de datos críticos. El estudiante demuestra competencia en manejo CLI eliminando dependencia total de GUI.
 
 # 10. Bibliografía
 
