@@ -1,0 +1,4 @@
+1. Los comandos de Linux son rápidos
+2. GitBash permite usar Linux dentro de Windows
+3. Primera tarea Tendencias Tecnológicas
+Ultima linea

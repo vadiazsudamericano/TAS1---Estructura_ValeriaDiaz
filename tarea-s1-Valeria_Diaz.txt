@@ -1,0 +1,83 @@
+    1  nd add @angular/material
+    2  cd C:\Users\vd236\Documents\mi-vida
+    3  cd "C:\Users\vd236\Documents\mi-vida"
+    4  cd "C:\Users\vd236\Documents\mi-vida"
+    5  ls "C:\Users\vd236\Documents\mi-vida"
+    6  git init
+    7  -a ./ ../ .git/
+    8  ls -1
+    9  la -a
+   10  ls -a
+   11  git add .
+   12  git status
+   13  git status
+   14  git add .
+   15  git status
+   16  git commit
+   17  cd "C:\Users\vd236\Documents\mi-vida~"
+   18  cd "C:\Users\vd236\Documents\mi-vida"
+   19  git commit -m "Mis primeras historias"
+   20  git add .
+   21  git status
+   22  git commit -m "Experiencias de la escuela"
+   23  git logs
+   24  git log
+   25  git checkout
+   26  checkout 887ca5f8e136f3fa5360b1a2587849853b0a6da7
+   27  git checkout 887ca5f8e136f3fa5360b1a2587849853b0a6da7
+   28  git checkout cac6fecf39ae27c9140a722fe469bd5cad1247c7
+   29  clear
+   30  cd "C:\Users\vd236\Documents\candidatos"
+   31  git init
+   32  git add index.html
+   33  git add index.html
+   34  git commit -m "Estructura de archivo principal"
+   35  git remote add origin https://github.com/vadiazsudamericano/candidatos.git
+   36  git branch -M main
+   37  git push -u origin main
+   38  cd C:\Users\vd236\Documents\candidatos
+   39  cd "C:\Users\vd236\Documents\candidatos"
+   40  git init
+   41  git add index.html
+   42  git commit -m "Estructura de archivo principal"
+   43  git add .
+   44  git commit -m "Candidatos"
+   45  git remote add origin https://github.com/vadiazsudamericano/candidatos.git
+   46  git branch -M main
+   47  git push -u origin main
+   48  cd "C:\Users\vd236\Documents\candidatos"
+   49  git remote add origin https://github.com/vadiazsudamericano/presidentes.git
+   50  git init 
+   51  gid add .
+   52  git add .
+   53  git commit -m "Final"
+   54  git remote add origin https://github.com/vadiazsudamericano/presidentes.git
+   55  git remote add origin https://github.com/vadiazsudamericano/presidentes.git
+   56  git push -u origin main
+   57  git branch -M main
+   58  git push -u origin main
+   59  git push 
+   60  git remote add origin https://github.com/vadiazsudamericano/presidentes.git
+   61  git log 
+   62  git 7db1552cde569f7e3307dcfd6deb7756e2e7876f
+   63  cd Documents
+   64  mkdir proyecto_comandos
+   65  cd proyecto_comandos
+   66  mkdir coumentos imagenes scripts
+   67  cd documentos
+   68  mv coumentos documentos
+   69  cd documentos
+   70  echo "1. Los comandos de Linux son rápidos" > notas.txt
+   71  echo "2. GitBash permite usar Linux dentro de Windows" >> notas.txt
+   72  echo "3. Primera tarea Tendencias Tecnológicas" >> notas.txt
+   73  cp notas.txt ../scripts/backup_notas.txt
+   74  mv ../scripts/backup_notas.txt ../imagenes/
+   75  cat notas.txt > resumen.txt
+   76  echo "Línea final: Tarea realizada :)" >> resumen.txt
+   77  cat notas.txt > resumen.txt
+   78  echo "Ultima linea" >> resumen.txt
+   79  cd ../imagenes
+   80  rm backup_notas.txt
+   81  cd ..
+   82  rmdir imagenes
+   83  history > tarea-s1-Valeria_Diaz.txt
