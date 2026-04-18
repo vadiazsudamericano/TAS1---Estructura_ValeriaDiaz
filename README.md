@@ -1,11 +1,11 @@
 Práctica de Comandos Linux en Terminal
-1. Título
+# 1. Título
 Gestión de Archivos y Directorios mediante Comandos CLI en GitBash
 
-2. Tiempo de duración
+# 2. Tiempo de duración
 45 minutos
 
-3. Fundamentos
+# 3. Fundamentos
 La terminal CLI (Command Line Interface) en sistemas UNIX-like proporciona acceso directo al kernel Linux mediante comandos que invocan syscalls del sistema. GitBash en Windows emula un entorno POSIX sobre MinGW, mapeando comandos Linux al subsistema Windows NT mediante una capa de compatibilidad cygwin-like. El kernel Linux gestiona el sistema de archivos jerárquico mediante inodos, que almacenan metadatos (permisos, timestamps, ownership) y apuntan a bloques de datos físicos.
 
 Figura 3-1. Estructura del sistema de archivos Linux con inodos
@@ -39,7 +39,7 @@ Figura 3-3. Comparativa CLI vs GUI en operaciones de archivos
 Dominar estos comandos es prerequisite para tecnologías modernas como Docker (docker run -v), Ansible (file modules) y Kubernetes (configmaps), donde interfaces gráficas no existen y la precisión del comando determina el éxito del despliegue.
 
 
-4. Conocimientos previos
+# 4. Conocimientos previos
 Para realizar esta práctica el estudiante necesita tener claro los siguientes temas:
 
 Comandos básicos Linux: mkdir, cp, mv, rm, ls, cd, pwd
@@ -54,7 +54,7 @@ Redireccionamiento de salida (>, >>)
 
 Estructura de directorios jerárquicos
 
-5. Objetivos a alcanzar
+# 5. Objetivos a alcanzar
 Crear estructura de directorios anidados mediante mkdir
 
 Manipular archivos con cp, mv y rm corrigiendo errores tipográficos
@@ -67,7 +67,7 @@ Desarrollar autonomía en terminal eliminando dependencia de GUI Windows Explore
 
 Validar operaciones mediante inspección de filesystem
 
-6. Equipo necesario
+# 6. Equipo necesario
 PC con Windows 11 Pro/Education (WSL2 opcional)
 
 GitBash v2.41.0.windows.3+ (incluye MinGW64, BusyBox)
@@ -78,7 +78,7 @@ Editor de texto (Notepad++, VS Code)
 
 Terminal moderna (Windows Terminal recomendado)
 
-7. Material de apoyo
+# 7. Material de apoyo
 Cheat sheet Linux commands: linuxcommands.org
 
 Documentación Git for Windows: gitforwindows.org
@@ -89,7 +89,7 @@ Práctica anterior: Fundamentos teóricos Linux CLI
 
 Referencia redireccionamiento: bash-hackers.org/cmds/all.html
 
-8. Procedimiento
+# 8. Procedimiento
 Paso 1: Inicializar entorno de trabajo
 
 bash
@@ -150,7 +150,7 @@ history > tarea-s1-Valeria_Diaz.txt
 tail -10 tarea-s1-Valeria_Diaz.txt
 Figura 8-4. Historial de comandos de la sesión completa
 
-9. Resultados esperados
+# 9. Resultados esperados
 Estructura final en C:\Users\vd236\Documents\proyecto_comandos
 
 text
@@ -167,7 +167,7 @@ Figura 9-3. Últimas líneas del historial de comandos
 
 Verificación exitosa de todas las operaciones sin pérdida de datos críticos. El estudiante demuestra competencia en manejo CLI eliminando dependencia total de GUI.
 
-10. Bibliografía
+# 10. Bibliografía
 
 
 The Linux Documentation Project. (2025). Bash Guide for Beginners. Recuperado de http://tldp.org/LDP/Bash-Beginners-Guide/html/
